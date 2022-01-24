@@ -1,0 +1,33 @@
+1.Git is a version control system(it is a repository where we are going to store different type of data,ex:ms office 2010.... form year to to year we add new feature is added (2003 -3007 diff 1.file is stored in file.doc in 2007 we store as file.docs,2. we cant make pdf directly in 2003 but in 2007 we can make or save pdf directly.)) for tracking changes in computer files,it is a distubuted version control tool used for source code management.
+2.Github is a git repository posting services that provides a web based graphial interface and it is a remote server.
+3. Git is used to flag the changes in source code and allows multiple developers to work through it git can affectively communicate with github and hunderds of projects are implemented and available.
+4. Git vs Github
+    Git:
+   1. git is a software tool
+   2. it is installed on local system 
+   3. it is used to manage different versions of the source code
+   Github:
+   1. github is a service
+   2. it is hosted on the web
+   3. it is used to have a copy of the local repository code.
+
+general statements/command followed for windows:
+1.intall 
+2.create an account int github
+3.make a directory cmmd: mkdar followed with directory mame
+4.cd directory name
+5.git init
+6.create a notepad file
+7.git status
+note:notepad file and git status is create than that area is called as staging area
+8."git add filename.txt" or "git add ."
+9.git commit and the press enter (for inserion we have to press letter i and to quit we use sk:wq)
+10.git push
+note:when we are doing commit for 1st time
+-git config--global user.name "name of user"
+-git config--global user.email "email"
+11.git pull comnd is used to fetch and merge changes form the remote repostiory to the local repository.
+git intallation in  steps:
+1.sudo git update
+2.sudo apt install git
+3. to check version:git --version
