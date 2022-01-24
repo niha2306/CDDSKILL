@@ -22,6 +22,7 @@ general statements/command followed for windows:
 note:notepad file and git status is create than that area is called as staging area
 8."git add filename.txt" or "git add ."
 9.git commit and the press enter (for inserion we have to press letter i and to quit we use sk:wq)
+->git remote add <Repository url>
 10.git push
 note:when we are doing commit for 1st time
 -git config--global user.name "name of user"
@@ -31,3 +32,4 @@ git intallation in  steps:
 1.sudo git update
 2.sudo apt install git
 3. to check version:git --version
+
